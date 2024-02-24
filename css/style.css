@@ -1,0 +1,26 @@
+
+   body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+
+.container {
+    color: white;
+    margin: 20px auto; /* Add margin to the top and bottom, and auto to left and right to center the container */
+    text-align: center;
+    padding: 20px;
+    border: 2px solid white; /* Add border around the container */
+}
+
+
+.container h1 {
+    margin-bottom: 20px;
+}
+
+.container p {
+    margin-bottom: 10px;
+}   */
+
+
